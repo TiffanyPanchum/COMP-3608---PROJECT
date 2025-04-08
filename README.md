@@ -35,7 +35,7 @@ The project uses three publicly available datasets:
    - Target: Diabetes diagnosis (0/1)
 
 2. **Heart Disease UCI Dataset**
-   - Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
+   - Source: [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
    - Features: Cholesterol, ECG results, blood pressure, etc.
    - Target: Presence of heart disease (0/1)
 
