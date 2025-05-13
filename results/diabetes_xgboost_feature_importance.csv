@@ -1,0 +1,27 @@
+Feature,Importance
+hba1c_level,0.50247496
+blood_glucose_level,0.2438296
+hypertension,0.03310328
+heart_disease,0.032762885
+age,0.0264398
+gender_Male,0.02601468
+smoking_history_Unknown,0.025633598
+bmi,0.014741624
+bmi_category_Over,0.009880766
+smoking_history_Ever,0.0096278535
+smoking_history_Not current,0.008711245
+age_group_46-60,0.008574816
+smoking_history_Never,0.008445939
+smoking_history_Former,0.008416778
+age_group_30-45,0.00794338
+gender_Female,0.007481776
+smoking_history_Current,0.007337749
+bmi_category_Obese,0.007228274
+glucose_tolerance_Prediabetes,0.005350785
+bmi_category_Normal,0.0044570807
+bmi_category_Under,0.0015431169
+gender_Other,0.0
+age_group_60+,0.0
+age_group_<30,0.0
+glucose_tolerance_Diabetes,0.0
+glucose_tolerance_Normal,0.0
