@@ -53,3 +53,15 @@ Follow these steps to set up the project:
    git clone https://github.com/TiffanyPanchum/COMP-3608---PROJECT.git
    cd COMP-3608---PROJECT
 
+2. # Create virtual environment (Linux/Mac)
+   python -m venv venv
+   source venv/bin/activate
+
+3. # Windows users use:
+   .\venv\Scripts\activate
+
+4. # Install dependencies
+   pip install -r requirements.txt
+
+## Web Applications
+   streamlit run app.py
