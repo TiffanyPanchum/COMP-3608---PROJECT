@@ -1,0 +1,21 @@
+Model,Metric,Value
+Logistic Regression,accuracy,0.894
+Logistic Regression,precision,0.4385245901639344
+Logistic Regression,recall,0.8811764705882353
+Logistic Regression,f1,0.5856137607505864
+Random Forest,accuracy,0.9405
+Random Forest,precision,0.6180555555555556
+Random Forest,recall,0.7852941176470588
+Random Forest,f1,0.6917098445595855
+Xgboost,accuracy,0.8601
+Xgboost,precision,0.3578456758156396
+Xgboost,recall,0.8129411764705883
+Xgboost,f1,0.4969435454872348
+Ensemble (hard),accuracy,0.91645
+Ensemble (hard),precision,0.505165657285358
+Ensemble (hard),recall,0.8341176470588235
+Ensemble (hard),f1,0.6292433991568671
+Ensemble (soft),accuracy,0.9115
+Ensemble (soft),precision,0.48807089297886846
+Ensemble (soft),recall,0.8423529411764706
+Ensemble (soft),f1,0.6180405697022011
