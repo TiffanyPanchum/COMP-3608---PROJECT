@@ -1,0 +1,31 @@
+Model,Feature,Importance
+logistic_regression,dataset_Switzerland,1.8031699286928238
+logistic_regression,cp_asymptomatic,0.9624828957703853
+logistic_regression,cp_atypical angina,0.923681610584128
+logistic_regression,dataset_Cleveland,0.7597566766004223
+logistic_regression,dataset_Hungary,0.7341638256329472
+logistic_regression,age_group_30-39,0.7060561017886278
+logistic_regression,sex_Male,0.69739208503697
+logistic_regression,sex_Female,0.6902493818023621
+logistic_regression,age,0.6007548462711988
+logistic_regression,oldpeak,0.5862431770418877
+random_forest,cp_asymptomatic,0.10467608458882925
+random_forest,thalch,0.09812659227124429
+random_forest,age,0.09483073780985377
+random_forest,oldpeak,0.08081484322296158
+random_forest,chol,0.07409087341159447
+random_forest,trestbps,0.055214918438344536
+random_forest,exang_True,0.05486995052172602
+random_forest,exang_False,0.04441354945902954
+random_forest,cp_atypical angina,0.03671862480150739
+random_forest,dataset_Switzerland,0.03589418942101827
+xgboost,cp_asymptomatic,0.25114232301712036
+xgboost,chol_risk_Normal,0.13980905711650848
+xgboost,dataset_Switzerland,0.06930883228778839
+xgboost,sex_Female,0.052463505417108536
+xgboost,age_group_40-49,0.04736420512199402
+xgboost,dataset_VA Long Beach,0.0458238385617733
+xgboost,exang_False,0.03686322271823883
+xgboost,cp_atypical angina,0.03170567750930786
+xgboost,restecg_st-t abnormality,0.02780796028673649
+xgboost,oldpeak,0.02739526517689228
